@@ -5,10 +5,6 @@ import java.util.*;
 
 /**
  * This is an implementation of the "THUIQ Algorithm" in paper:
- *
- *  Jinbao Miao et al. THUIQ: Target High Utility Itemset Querying. 2021.
- *ent
- * @author Jinbao Miao & Wensheng Gan, JNU, China
  */
 
 public class AlgoTHUIQ {
