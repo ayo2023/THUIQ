@@ -6,9 +6,6 @@ import java.util.List;
 
 /**
  * This class represents a UtilityList as used by the HUI-Miner algorithm.
- *
- * @see THUIQ.AlgoTHUIQ
- * @author Jinbao Miao
  */
 public class AttributeUtilityList {
 	 Integer item;  // the item
