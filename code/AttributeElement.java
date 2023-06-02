@@ -3,10 +3,6 @@ package THUIQ;
 
 /**
  * This class represents an Element of a utility-list
- * 
- * @see THUIQ.AlgoTHUIQ
- * @see THUIQ.AttributeUtilityList
- * @author Jinbao Miao
  */
 
 /** attribute value, a bool type only have 0 or 1. */
